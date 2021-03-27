@@ -1,4 +1,4 @@
-# flutter_movie_project
+# flutter movie project
 
 ## project develop for  30 days of flutter challenge
 
